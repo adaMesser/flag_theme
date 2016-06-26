@@ -5,7 +5,6 @@
 <div id="wrapper">
   <div id="content">
     <?php print render($page['content']); ?>
-    <?php t('<h1>hello,world!!!</h1>') ?>
   </div>
 
 </div>
